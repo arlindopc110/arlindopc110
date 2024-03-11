@@ -1,6 +1,6 @@
 # Olá visitante !👋
 
-Sou o Arlindo, desenvolvedor Full Stack, especializado em desenvolvimento web.
+Sou o Arlindo, desenvolvedor Front-Endk, especializado em desenvolvimento web e desenvolvimento de software.
 
 ## Mais sobre mim
 
