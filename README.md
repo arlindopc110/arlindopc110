@@ -1,6 +1,7 @@
 # Olá visitante !👋
 
-Sou o Arlindo, desenvolvedor Front-Endk, especializado em desenvolvimento web e desenvolvimento de software.
+Desenvolvedor Front-End com experiência em trabalhos freelancer voltados para desenvolvimento Web, tenho habilidades com ferramentas Front-End e Back-End com Node.js, C# e banco de dados. 
+Estou sempre estudando e aprendendo algo novo, a tecnologia sempre me instigou a aprender novas ferramentas e habilidades. Possuo fácil comunicação e um ótimo relacionamento com trabalhos em equipe, minha facilidade de realizar conexões interpessoais em busca de soluções é meu ponto forte.
 
 ## Mais sobre mim
 
