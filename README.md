@@ -9,7 +9,7 @@ function ARLINDO {
  var name = "JOSÉ ARLINDO PRIVINO CUSTÓDIO"
  var acknowledgements = "FRONT-END E BACK-END"
 
- var hardSkills = ["HTML5", "CSS","JavaScript", "React", "Python", "MySQLServer", "SQL", "Git & GitHub"]
+ var hardSkills = ["HTML5", "CSS","JavaScript", "React", "Node.js", "MySQLServer", "C#", "Git & GitHub"]
 
  var softSkills = [
         "• Rápido aprendizado",
@@ -44,7 +44,7 @@ function ARLINDO {
     src="https://www.freeiconspng.com/uploads/sql-database-icon-png-17.png"/></code>
 <code><img
     height="50"
-    src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"/></code>
+    src="https://logodix.com/logo/1764875.png"/></code>
 <code><img
     height="50"
     src="https://freefilehippo.com/wp-content/uploads/2020/04/github-desktop-Picture.png"/></code>
